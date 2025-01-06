@@ -1,6 +1,6 @@
 # QC Experiments
 
-Welcome to the QC Experiments repository! This repo contains various quantum computing experiments conducted by the iCog Labs QC team. Our goal is to explore and benchmark quantum algorithms and compare their performance with classical counterparts.
+Welcome to the QC Experiments repository! This repo contains various quantum computing experiments. Our goal is to explore and benchmark quantum algorithms and compare their performance with classical counterparts.
 
 ---
 
